@@ -97,8 +97,7 @@ title: 协会成员
             { icon: 'github', link: 'https://github.com/qhongyxy' },
            
         ]
-    },]
-    ;
+    }];
     const members2021 = [
     {
         avatar: '/avator/耿明强.jpg',
@@ -109,8 +108,8 @@ title: 协会成员
             { icon: 'github', link: 'https://github.com/mqgeng/' },
            
         ]
-    },
-]
+    }
+    ];
 </script>
 
 <VPTeamPage>
@@ -124,19 +123,19 @@ title: 协会成员
         <template #members>
             <VPTeamMembers size="small" :members="members2023"/>
         </template>
-  </VPTeamPageSection>
-   <VPTeamPageSection>
+    </VPTeamPageSection>
+    <VPTeamPageSection>
         <template #title>2022级</template>
         <template #lead>...</template>
         <template #members>
             <VPTeamMembers size="small" :members="members2022"/>
         </template>
-  </VPTeamPageSection>
-   <VPTeamPageSection>
+    </VPTeamPageSection>
+    <VPTeamPageSection>
         <template #title>2021级</template>
         <template #lead>...</template>
         <template #members>
             <VPTeamMembers size="small" :members="members2021"/>
         </template>
-  </VPTeamPageSection>
+    </VPTeamPageSection>
 </VPTeamPage>
