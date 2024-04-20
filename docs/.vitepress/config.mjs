@@ -16,7 +16,7 @@ export default defineConfig({
           }
         ]
       },
-      { text: '协会成员', link: '/team' },
+      { text: '协会成员', link: '/markdown-examples' },
       { text: '关于我们', link: '/about' }
     ],
 
