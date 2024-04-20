@@ -100,18 +100,18 @@ layout: page
            
         ]
     }];
-    const members2021 = [
-    {
-        avatar: '/avator/耿明强.jpg',
-        name: '耿明强',
-        org: '计算机学院',
-        desc:'a picky info miner',
-        links: [
-            { icon: 'github', link: 'https://github.com/mqgeng/' },
+    // const members2021 = [
+    // {
+    //     avatar: '/avator/耿明强.jpg',
+    //     name: '耿明强',
+    //     org: '计算机学院',
+    //     desc:'a picky info miner',
+    //     links: [
+    //         { icon: 'github', link: 'https://github.com/mqgeng/' },
            
-        ]
-    }
-    ];
+    //     ]
+    // }
+    // ];
 </script>
 
 <VPTeamPage>
