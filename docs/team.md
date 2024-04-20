@@ -119,7 +119,7 @@ layout: page
         <template #title>华中师范大学 无人机协会</template>
         <template #lead>成员介绍</template>
     </VPTeamPageTitle>
-    <VPTeamPageSection>
+    <!-- <VPTeamPageSection>
         <template #title>2023级</template>
         <template #lead>...</template>
         <template #members>
@@ -139,5 +139,5 @@ layout: page
         <template #members>
             <VPTeamMembers size="small" :members="members2021"/>
         </template>
-    </VPTeamPageSection>
+    </VPTeamPageSection> -->
 </VPTeamPage>
