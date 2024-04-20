@@ -17,8 +17,8 @@ title: 协会成员
         org: '计算机学院',
         desc: '繁花似锦觅安宁 淡水流云渡此生',
         links: [
-            { icon: 'github', link: 'https://github.com/eleliauk' }
-        ]
+            { icon: 'github', link: 'https://github.com/eleliauk' },
+        ],
     },
      {
         avatar: '/avator/唐诗吟.png',
@@ -30,7 +30,10 @@ title: 协会成员
         avatar: '/avator/李子昂.jpg',
         name: '李子昂',
         org: '计算机学院',
-        desc: '格兰芬多在读',       
+        desc: '格兰芬多在读',   
+          links: [
+            { icon: 'github', link: 'https://github.com/lulisnd' },
+        ],  
     },
      {
         avatar: '/avator/年智斌.jpg',
