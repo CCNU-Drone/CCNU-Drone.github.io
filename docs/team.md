@@ -11,44 +11,44 @@ title: 协会成员
     } from 'vitepress/theme';
 
     const members2023 = [
-    {
-        avatar: '/avator/单禹嘉.jpg',
-        name: '单禹嘉',
-        org: '计算机学院',
-        desc: '繁花似锦觅安宁 淡水流云渡此生',
-        links: [
-            { icon: 'github', link: 'https://github.com/eleliauk' },
-        ],
-    },
-     {
-        avatar: '/avator/唐诗吟.png',
-        name: '唐诗吟',
-        org: '计算机学院',
-        desc: '躺？想',       
-    },
-     {
-        avatar: '/avator/李子昂.jpg',
-        name: '李子昂',
-        org: '计算机学院',
-        desc: '格兰芬多在读',   
-          links: [
-            { icon: 'github', link: 'https://github.com/lulisnd' },
-        ],  
-    },
-     {
-        avatar: '/avator/年智斌.jpg',
-        name: '年智斌',
-        org: '计算机学院',
-        desc:'懒得动，懒得想，懒得一切。'   
-    },
-    {
-        avatar: '/avator/焦新亨.png',
-        name: '焦新亨',
-        org: '计算机学院',
-        desc: '这是一个签名',  
-        links: [
-            { icon: 'github', link: 'https://github.com/drunksweet' }
-        ]       
+        {
+            avatar: '/avator/单禹嘉.jpg',
+            name: '单禹嘉',
+            org: '计算机学院',
+            desc: '繁花似锦觅安宁 淡水流云渡此生',
+            links: [
+                { icon: 'github', link: 'https://github.com/eleliauk' },
+            ]
+        },
+        {
+            avatar: '/avator/唐诗吟.png',
+            name: '唐诗吟',
+            org: '计算机学院',
+            desc: '躺？想',       
+        },
+        {
+            avatar: '/avator/李子昂.jpg',
+            name: '李子昂',
+            org: '计算机学院',
+            desc: '格兰芬多在读',   
+            links: [
+                { icon: 'github', link: 'https://github.com/lulisnd' },
+            ]  
+        },
+        {
+            avatar: '/avator/年智斌.jpg',
+            name: '年智斌',
+            org: '计算机学院',
+            desc:'懒得动，懒得想，懒得一切。'   
+        },
+        {
+            avatar: '/avator/焦新亨.png',
+            name: '焦新亨',
+            org: '计算机学院',
+            desc: '这是一个签名',  
+            links: [
+                { icon: 'github', link: 'https://github.com/drunksweet' }
+            ]       
     },
      {
         avatar: '/avator/傅树炫.jpg',
