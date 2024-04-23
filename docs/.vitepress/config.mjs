@@ -14,22 +14,7 @@ export default defineConfig({
             text: 'level1',
             link: '/level1/手动启动'
           },
-          {
-            text: 'level1',
-            link: '/level1/航模锂电池知识点'
-          },
-          {
-            text: 'level1',
-            link: '/level1/PC地面站MP接入图传教程'
-          },
-          {
-            text: 'level1',
-            link: '/level1/PC端安装仿真开发环境'
-          },
-          {
-            text: 'level1',
-            link: '/level1/PC设置飞机遥测转发与视频回传'
-          }
+
         ]
       },
       { text: '协会成员', link: '/协会成员' },
