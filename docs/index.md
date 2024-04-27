@@ -12,7 +12,7 @@ hero:
       link: /level1/手动启动
     - theme: alt
       text: View on Github
-      link: /api-examples
+      link: https://github.com/CCNU-Drone/CCNU-Drone.github.io
 
 features:
   - title: 协会工作
